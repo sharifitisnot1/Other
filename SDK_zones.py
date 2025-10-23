@@ -17,7 +17,7 @@ from typing import List, Dict
 # Inputs
 PORTAL_HOST = 'sharif81.ctera.me'
 USERNAME    = 'admin'
-PASSWORD    = 'CTERAis#1'
+PASSWORD    = "12345"
 
 ZONE_NAME        = 'test zone'
 ZONE_DESCRIPTION = 'sdkzone'
@@ -142,3 +142,4 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
+
